@@ -2,6 +2,8 @@
 
 Activity indicator written in Swift 
 
+todo: pod support, add gif in description
+
 ## Usage 
 
 Declare in view controller(or view)
